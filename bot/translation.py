@@ -5,8 +5,8 @@
 class Translation(object):
     
     START_TEXT = """
-HELLOW [👋](https://telegra.ph/file/60aa05268574604cee922.jpg).
-<i>Am Just A Advance Auto Filter Bot
+HELLOW {username} 
+<i>I Am Matrix Just A Advance Auto Filter Bot
 
 Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
 
