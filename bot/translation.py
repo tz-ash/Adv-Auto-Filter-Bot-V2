@@ -4,7 +4,7 @@
 
 class Translation(object):
     
-    START_TEXT = """ <b>Hey {}!!</b>
+    START_TEXT = """ <a href="https://telegra.ph/file/60aa05268574604cee922.jpg" >text</a>
 
 <i>I Am Matrix Just A Advance Auto Filter Bot
 
