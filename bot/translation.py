@@ -4,8 +4,8 @@
 
 class Translation(object):
     
-    START_TEXT = """
-HELLOW {username} 
+    START_TEXT = """ <b>Hey {}!!</b>
+
 <i>I Am Matrix Just A Advance Auto Filter Bot
 
 Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
