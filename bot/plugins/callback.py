@@ -1639,7 +1639,7 @@ async def callback_data(bot, update: CallbackQuery):
 
     if query_data == "start":
         buttons = [[
-            InlineKeyboardButton('My Dev 👨‍🔬', url='https://t.me/kid_if_telegram'),
+            InlineKeyboardButton('My Dev 👨‍🔬', url='https://t.me/kid_of_telegram'),
             InlineKeyboardButton('Source Code 🧾', url ='https://t.me/kidbots')
         ],[
             InlineKeyboardButton('Support 🛠', url='https://t.me/tzkid')
